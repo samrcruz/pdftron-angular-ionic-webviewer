@@ -1,0 +1,7 @@
+{
+  "name": "webviewer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
